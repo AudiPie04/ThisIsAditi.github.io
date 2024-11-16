@@ -21,6 +21,7 @@
 **Robotics**
 - During my first semester in college, I created an RC Car as a group project. Check it out [here](https://www.linkedin.com/posts/aditisingh-iitb_robotics-iitbombay-activity-7242123558083039232-yywH?utm_source=share&utm_medium=member_desktop)
 - I was also given an opportunity to work in a team of four to build an RC Plane, through the Aeromodelling Club of IIT Bombay.
+
 **Projects in C++**
 - Have studied C++ language under the CS101 course in IIT Bombay for the first sem.
 
