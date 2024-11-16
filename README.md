@@ -26,4 +26,4 @@
 - Have studied C++ language under the CS101 course in IIT Bombay for the first sem.
 
 ## Current Projects
-- I am currently trying to deep-dive in the world of Networks and data bases, trying to explore the world of Cybersecurity
+- I am currently trying to deep-dive into understanding networks and data bases, trying to explore the world of Cybersecurity
