@@ -9,7 +9,7 @@
 ## Experience
 
 ## Hobbies
-**I am a huge musical enthusiast**
+**Musical enthusiast**
 - My musical instrument collection includes Acoustic guitar, Electric Guitar, Ukulele, and a small Casio :)
 - [Here](https://youtu.be/h5K0UBeISyo?si=7POFq6XXgHRFUgIp) is one of the links to a Band Performance where you may spot me as the Bassist! 
 
